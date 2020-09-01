@@ -1,0 +1,53 @@
+[33mcommit 5f62567062155ca27c0555390de8afc72a7800fa[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: irene <irenerutto@gmail.com>
+Date:   Mon Aug 31 17:40:36 2020 +0300
+
+    revert2
+
+[33mcommit e152d058d85968691b4089fb8b92f0f2074fa7b3[m
+Author: irene <irenerutto@gmail.com>
+Date:   Mon Aug 31 17:39:06 2020 +0300
+
+     revert1
+
+[33mcommit b46ba73938507ac92249bd826cd1d440c373c5c2[m[33m ([m[1;31morigin/firstbranch[m[33m, [m[1;32mfirstbranch[m[33m)[m
+Author: irene <irenerutto@gmail.com>
+Date:   Mon Aug 31 16:53:22 2020 +0300
+
+     doing some rebasing
+
+[33mcommit ae2b13ebe59e94e34b6014dbf79c2cfb571c00ca[m
+Author: irene <irenerutto@gmail.com>
+Date:   Mon Aug 31 16:50:43 2020 +0300
+
+     forgot that i had to go to firstb so added to m
+
+[33mcommit 0c7c878601246e70d12ca7746c7f1848d0380988[m
+Author: irene <irenerutto@gmail.com>
+Date:   Mon Aug 31 16:25:59 2020 +0300
+
+    making changes in firstbranch
+
+[33mcommit c451df93a31426f473b6c31e691d51863b7cf46b[m
+Author: irene <irenerutto@gmail.com>
+Date:   Mon Aug 31 16:13:13 2020 +0300
+
+    adding 3 files
+
+[33mcommit f2368a1cc284fbc64eef2c4bad47272b5d8605ea[m
+Author: irene <irenerutto@gmail.com>
+Date:   Mon Aug 31 16:06:36 2020 +0300
+
+    adding fisrt commit in local repo
+
+[33mcommit aa86cc1ffc9a2051b3f22b06bf8bd8c5e3324505[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: irenerutto <37220847+irenerutto@users.noreply.github.com>
+Date:   Mon Aug 31 14:28:50 2020 +0300
+
+    Update README.md
+
+[33mcommit 3a99e9eaeea6d479fb9f3798009e5e1b5dd6b82c[m
+Author: irenerutto <37220847+irenerutto@users.noreply.github.com>
+Date:   Mon Aug 31 14:26:32 2020 +0300
+
+    Initial commit
